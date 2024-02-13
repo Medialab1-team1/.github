@@ -4,14 +4,13 @@
 #### 2023 - 2024
 
 ### deliverables
--
--
--
+- Onepager
+- Prototype
+- Concepts
 
 ### links 
 - [Figmajam](https://www.figma.com/file/ODJYEAGdXXsnP4Rh0UfXUm/Medialab)
-- 
--
+  
 
 
 
