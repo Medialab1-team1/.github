@@ -13,5 +13,5 @@
 3. [Dashboard dossier](https://www.figma.com/proto/pHrl5etJmJmwXlG0HQAIr5/Concept-3-%7C-Dashboard-dossier)
 
 ### links 
-- [Figmajam](https://www.figma.com/file/ODJYEAGdXXsnP4Rh0UfXUm/Medialab)
+- [Figjam](https://www.figma.com/file/ODJYEAGdXXsnP4Rh0UfXUm/Medialab)
 
