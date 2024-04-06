@@ -5,7 +5,7 @@
 
 ### deliverables
 - [Onepager](https://project.cmi.hr.nl/2023_2024/mlab1_ms_t1/)
-- Prototype
+- [Prototype](https://medialab01.pimmothy.live)
 
 ### Concepts
 1. [Dashboard](https://www.figma.com/proto/oQDRxSmdnfu7ffgI8FbaZQ/Concept-1-%7C-Dashboard)
